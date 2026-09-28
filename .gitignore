@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build output
+client/dist/
+client/dist-cvm/
+server/dist/
+.space-build/
+.space-build-cvm/
+.harness/
+audits/
+.bun-cache/
+
+# Local artifact state and cache
+app.db
+app.db-shm
+app.db-wal
+.xmds-icon
+AGENTS.md
+
+# TypeScript cache
+*.tsbuildinfo*
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/

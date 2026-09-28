@@ -1,0 +1,8 @@
+{
+  "entry": "client/dist/index.html",
+  "managedCronJobs": [],
+  "name": "Stock Analyzer",
+  "platformVersion": 22,
+  "runtime": "typescript",
+  "slug": "stock-analyzer"
+}
